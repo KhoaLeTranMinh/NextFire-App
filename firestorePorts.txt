@@ -1,3 +1,4 @@
+? Which port do you want to use for the auth emulator? 9099
 ? Which port do you want to use for the functions emulator? 5001
 ? Which port do you want to use for the firestore emulator? 8080
 ? Which port do you want to use for the database emulator? 9000
